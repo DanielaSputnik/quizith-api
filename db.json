@@ -1,0 +1,410 @@
+{
+    "questions": [
+        {
+            "id": "1abcx",
+            "question": "What is the name of Gandalf's sword?",
+            "options": [
+                {
+                    "isCorrect": true,
+                    "id": "1abcx1a",
+                    "text": "Glamdring"
+                },
+                {
+                    "isCorrect": false,
+                    "id": "1abcxd82",
+                    "text": "Narya"
+                },
+                {
+                    "isCorrect": false,
+                    "id": "1abcx3",
+                    "text": "Nirnaeth"
+                },
+                {
+                    "isCorrect": false,
+                    "id": "1abcxs4",
+                    "text": "Andúril"
+                },
+                {
+                    "isCorrect": false,
+                    "id": "1abcx75",
+                    "text": "Orcrist"
+                },
+                {
+                    "isCorrect": false,
+                    "id": "1abcx65",
+                    "text": "Egalmoth"
+                },
+                {
+                    "isCorrect": false,
+                    "id": "1abcx548sa",
+                    "text": "Anglachel"
+                }
+            ],
+            "difficulty": 1,
+            "cathegory": "characters",
+            "appearances": [
+                "books",
+                "movies"
+            ]
+        },
+        {
+            "id": "2abcx",
+            "question": "Who Túrin's sister?",
+            "options": [
+                {
+                    "isCorrect": false,
+                    "id": "2abcx54",
+                    "text": "Morwen"
+                },
+                {
+                    "isCorrect": false,
+                    "id": "2abcxw6",
+                    "text": "Hareth"
+                },
+                {
+                    "isCorrect": true,
+                    "id": "2abcxdf5",
+                    "text": "Nienor"
+                },
+                {
+                    "isCorrect": false,
+                    "id": "2abcx54",
+                    "text": "Agarwaen"
+                },
+                {
+                    "isCorrect": false,
+                    "id": "2abcxsa8w",
+                    "text": "Déorwine"
+                },
+                {
+                    "isCorrect": false,
+                    "id": "2abcxcv4",
+                    "text": "Cermië"
+                }
+            ],
+            "difficulty": 2,
+            "cathegory": "characters",
+            "appearances": [
+                "books"
+            ]
+        },
+        {
+            "id": "3abcz",
+            "question": "What is the name of Misty Mountains in Sindarin?",
+            "options": [
+                {
+                    "isCorrect": false,
+                    "id": "3abcxerw5",
+                    "text": "Ered Lithui"
+                },
+                {
+                    "isCorrect": false,
+                    "id": "3abcxdf85",
+                    "text": "Ered Mithrin"
+                },
+                {
+                    "isCorrect": false,
+                    "id": "3abcxwseer9",
+                    "text": "Ered Luin"
+                },
+                {
+                    "isCorrect": false,
+                    "id": "3abcxnf87",
+                    "text": "Ered Nimrais"
+                },
+                {
+                    "isCorrect": true,
+                    "id": "3abcxsdgdv6",
+                    "text": "Hithaeglir"
+                }
+            ],
+            "difficulty": 3,
+            "cathegory": "locations",
+            "appearances": [
+                "books"
+            ]
+        },
+        {
+            "id": "4abcz",
+            "question": "What mountain range is Caradhras part of?",
+            "options": [
+                {
+                    "isCorrect": false,
+                    "id": "4abcxerw5",
+                    "text": "Ash Mountains"
+                },
+                {
+                    "isCorrect": false,
+                    "id": "4ab4xerw5",
+                    "text": "Blue Mountains"
+                },
+                {
+                    "isCorrect": true,
+                    "id": "4absfd7w5",
+                    "text": "Misty Mountains"
+                },
+                {
+                    "isCorrect": false,
+                    "id": "4abcxerw5",
+                    "text": "Iron Hills"
+                },
+                {
+                    "isCorrect": false,
+                    "id": "4ab4erw5",
+                    "text": "Mountains of Shadow"
+                },
+                {
+                    "isCorrect": false,
+                    "id": "4abcxerw5",
+                    "text": "White Mountains"
+                }
+            ],
+            "difficulty": 1,
+            "cathegory": "locations",
+            "appearances": [
+                "books",
+                "movies"
+            ]
+        },
+        {
+            "id": "5abci",
+            "question": "What was the original name of Minas Morgul?",
+            "options": [
+                {
+                    "isCorrect": true,
+                    "id": "56asxerw5",
+                    "text": "Minas Ithil"
+                },
+                {
+                    "isCorrect": false,
+                    "id": "5e1rw5",
+                    "text": "Minas Tirith"
+                },
+                {
+                    "isCorrect": false,
+                    "id": "5sf9xerw5",
+                    "text": "Minas Anor"
+                },
+                {
+                    "isCorrect": false,
+                    "id": "5sv8xerw5",
+                    "text": "Minas Annúl"
+                },
+                {
+                    "isCorrect": false,
+                    "id": "5dfdd88rw5",
+                    "text": "Annúminas"
+                }
+            ],
+            "difficulty": 1,
+            "cathegory": "locations",
+            "appearances": [
+                "books"
+            ]
+        },
+        {
+            "id": "6abcz",
+            "question": "Who of these pairs are NOT siblings?",
+            "options": [
+                {
+                    "isCorrect": false,
+                    "id": "652d8rw5",
+                    "text": "Boromir & Faramir"
+                },
+                {
+                    "isCorrect": false,
+                    "id": "63sd5d83rw5",
+                    "text": "Éowyn & Éomer"
+                },
+                {
+                    "isCorrect": false,
+                    "id": "6df5dsd88rw5",
+                    "text": "Elrond & Elros"
+                },
+                {
+                    "isCorrect": false,
+                    "id": "6wejn88rw5",
+                    "text": "Arwen & Elrohir"
+                },
+                {
+                    "isCorrect": true,
+                    "id": "6vcnzorw5",
+                    "text": "Galadriel & Gil-galad"
+                },
+                {
+                    "isCorrect": false,
+                    "id": "63dgrw5",
+                    "text": "Balin & Dwalin"
+                }
+            ],
+            "difficulty": 2,
+            "cathegory": "characters",
+            "appearances": [
+                "books"
+            ]
+        },
+        {
+            "id": "7gbcz",
+            "question": "What was the name of Sméagol's friend who found the ring?",
+            "options": [
+                {
+                    "isCorrect": false,
+                    "id": "778sdrw5",
+                    "text": "Trégol"
+                },
+                {
+                    "isCorrect": false,
+                    "id": "787sdfgrw5",
+                    "text": "Sméalon"
+                },
+                {
+                    "isCorrect": false,
+                    "id": "78dgrw5",
+                    "text": "Iorhéol"
+                },
+                {
+                    "isCorrect": false,
+                    "id": "78dsgrw5",
+                    "text": "Préion"
+                },
+                {
+                    "isCorrect": true,
+                    "id": "7df6grw5",
+                    "text": "Déagol"
+                },
+                {
+                    "isCorrect": false,
+                    "id": "7sdrw5",
+                    "text": "Léargo"
+                }
+            ],
+            "difficulty": 1,
+            "cathegory": "characters",
+            "appearances": [
+                "books",
+                "movies"
+            ]
+        },
+        {
+            "id": "8abcz",
+            "question": "What type of landscape is Emyn Muil?",
+            "options": [
+                {
+                    "isCorrect": false,
+                    "id": "8sdfgrw5",
+                    "text": "marshes"
+                },
+                {
+                    "isCorrect": true,
+                    "id": "8df41",
+                    "text": "hills"
+                },
+                {
+                    "isCorrect": false,
+                    "id": "8gfjnkof",
+                    "text": "grasslands"
+                },
+                {
+                    "isCorrect": false,
+                    "id": "8gkjfh6",
+                    "text": "coastline"
+                },
+                {
+                    "isCorrect": false,
+                    "id": "8rytfg544",
+                    "text": "forest"
+                }
+            ],
+            "difficulty": 1,
+            "cathegory": "locations",
+            "appearances": [
+                "books",
+                "movies"
+            ]
+        },
+        {
+            "id": "9nfdgcz",
+            "question": "Where was Frodo supposed to meet Gandalf after leaving The Shire?",
+            "options": [
+                {
+                    "isCorrect": false,
+                    "id": "98fg544",
+                    "text": "At the Greenway"
+                },
+                {
+                    "isCorrect": false,
+                    "id": "963dfbg",
+                    "text": "At the Yellow King Inn"
+                },
+                {
+                    "isCorrect": false,
+                    "id": "9553fhukm",
+                    "text": "At the Barrow-downs"
+                },
+                {
+                    "isCorrect": false,
+                    "id": "98estrpmnbz",
+                    "text": "At the Brandybuck Crossing"
+                },
+                {
+                    "isCorrect": false,
+                    "id": "933fhngsdf",
+                    "text": "At the Green Dragon"
+                },
+                {
+                    "isCorrect": true,
+                    "id": "93fgbldfx",
+                    "text": "At the Prancing Pony"
+                }
+            ],
+            "difficulty": 1,
+            "cathegory": "locations",
+            "appearances": [
+                "books",
+                "movies"
+            ]
+        },
+        {
+            "id": "108abcz",
+            "question": "What was 'Durin's Bane'?",
+            "options": [
+                {
+                    "isCorrect": false,
+                    "id": "105fsdfcvx",
+                    "text": "Greed"
+                },
+                {
+                    "isCorrect": true,
+                    "id": "10sdf7gpo",
+                    "text": "Arkenstone"
+                },
+                {
+                    "isCorrect": false,
+                    "id": "108sdgsdf",
+                    "text": "Mithril"
+                },
+                {
+                    "isCorrect": false,
+                    "id": "10s9dgsdf",
+                    "text": "Balrog"
+                },
+                {
+                    "isCorrect": false,
+                    "id": "1093dgsds",
+                    "text": "Morgoth"
+                },
+                {
+                    "isCorrect": false,
+                    "id": "106dgvc",
+                    "text": "Moria"
+                }
+            ],
+            "difficulty": 1,
+            "cathegory": "misc",
+            "appearances": [
+                "books",
+                "movies"
+            ]
+        }
+    ]
+}
